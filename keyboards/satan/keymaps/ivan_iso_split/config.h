@@ -24,4 +24,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #undef RGB_DI_PIN
 #define RGB_DI_PIN B2
 
+#define MOUSEKEY_WHEEL_DELAY 0
+#define MOUSEKEY_TIME_TO_MAX 10
+#define MOUSEKEY_WHEEL_MAX_SPEED 8
+
 #endif
